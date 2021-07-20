@@ -10,6 +10,9 @@ _To get the font that appears in the screenshots, you need to download and insta
 - Edit Mode example: 
   - ![Edit Mode](edit-mode.png)
 
+- Read Only Mode example: 
+  - ![Read Mode](read-only mode.png)
+
 ### Install the theme 🔧
 
 Just go to:
