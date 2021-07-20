@@ -14,6 +14,7 @@ Just go to:
  - `%APPDATA%\SAP\SAP GUI\ABAP Editor`
  - Replace the file `abap_spec.xml` with the one that you just downloaded
  - Done :)
+![GitHub Logo](edit-mode.png)
 
 ## Autor ✒️
 
