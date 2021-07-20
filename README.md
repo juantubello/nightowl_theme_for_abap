@@ -5,9 +5,9 @@ and fit my personal taste._
 
 ## Important 🚀
 
-_To give that unique font look that you can see in the screenshots, you need to install this font, you will not regret it → https://github.com/microsoft/cascadia-code_
+_To get the font that appears in the screenshots, you need to download and install it from here, you will not regret it → https://github.com/microsoft/cascadia-code_
 
-### Install 🔧
+### Install the theme 🔧
 
 Just go to:
 
