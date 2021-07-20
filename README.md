@@ -7,10 +7,10 @@ and fit my personal taste._
 
 _To get the font that appears in the screenshots, you need to download and install it from here, you will not regret it → https://github.com/microsoft/cascadia-code_
 
-- Edit Mode ✏ example: 
+- Edit ✏ example: 
   * ![Edit Mode](edit-mode.png)
 
-- Read Only Mode 👓 example: 
+- Read Only 👓 example: 
   * ![Read Mode](read-only-mode.png)
 
 ### Install the theme 🔧
