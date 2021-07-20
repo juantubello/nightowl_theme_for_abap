@@ -11,9 +11,9 @@ _To give that unique font look that you can see in the screenshots, you need to 
 
 Just go to:
 
- -1 `C:\Users\<YourUser>\AppData\Roaming\SAP\SAP GUI\ABAP Editor`
- -2 `Replace the file abap_spec.xml with the file u just download`
- -3 `Done :)`
+ - `C:\Users\<YourUser>\AppData\Roaming\SAP\SAP GUI\ABAP Editor`
+ - Replace the file` abap_spec.xml` with the file u just download
+ - Done :)
 
 ## Autor ✒️
 
