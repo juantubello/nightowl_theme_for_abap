@@ -6,7 +6,7 @@ and fit my personal taste._
 ## Important 🚀
 
 _To get the font that appears in the screenshots, you need to download and install it from here →  https://github.com/microsoft/cascadia-code,
- you will not regret it !
+ you will not regret it !_
 
 - Edit ✏ example: 
   * ![Edit Mode](edit-mode.png)
